@@ -1,0 +1,1 @@
+Purpose: spend more time practicing with lists, 2D lists, and nested for loops. Make a logical puzzle game.
